@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "minpec-data-analytics",
+  "private_key_id": "51f23297b0452912524d0fa022d305dac2fd5c35",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCXSUJMMUzFj+el\nPa23MR7NT20/VbPm/yyMmiDeK2gTna9x+NUjY6iAYFw/vqIslGa2Js+LGu6n7sbS\ntpmen7HAFKMmOkrnTmnrVZ7mzFbmRHJlKVq5223PiJ3QTqN68KYaWHAAdOJETyjF\ncZTfRbz1rsEwYfK/M6tdYiz5+I1VH7KWxuoNEo6smfma0rJKT0Na03g9pWdMYYR2\nT5lJkpOB8SB60KcizIeHPz0THaEw0pqyFwUSXYeABxc+D/8NpsTrsfMQxGwZxVYE\nxQi6+3Nfl6NpBMpYj490KlhYtqinm3Spg/r1Ex4JNxVe1U8G0mmPjthWx/Mud7XN\niEHaxwBnAgMBAAECggEAESCrzyvRsO2ZizKlb9UG02Bc/PZQoiQHliTTox4vmpuX\n7lj+lb1wU+sU5pPy5lsoGb02crLqNrxTaYMKIf7wb8+mUkCilEy4tHpYEscq8MeV\nBUZI+Du90z4jUnRku8Qc+g9DIY9vbSO3zkq3+7h4gSl3bmktw18v1Shf8S5Q9Jmv\nuZV/nSV56mN8ug9uHpktrlnjjaXY8Ds0ppvt8VQFWIkebaC8WXncqzxyOsJw1Neq\n7+OOOuoJ5tf4VD2qJH48G75IkB3F9aC2MGewHK7PGlwFtFH/GgWSIY1hPKv/HX4i\nH0pIIyXF1bKLAiuz3CuXaCn/YZDyx0VknN7aJiXBsQKBgQDVHGyUMt9OoKBSbAGG\nwKrJW2/bfm83+qpA1xP+ssaB7jESt/Uw3ZDbeweiGJYi0p30NOwnlrw2Et52KzDC\nrApwkIcXNjR2FT8Q1uaZl32Rq3PFgzuylXv34/Yg3mFe8mKxMFjV6EbRPTSM9Qx6\n2dfAPxVT/2nXjy24LkrmkpPszwKBgQC1u5cTnnj6eHkReppfjjiZbzpTvkcbBGym\nYx7JUfEumQ8iuYNI7SPQZh3FB9MC9uARf2qHyNaesabBG66Vxdn//FzpdQUtHdCh\nWvrbsekxbCya9i9Jj4GJN6Pxwdl/tgecN6gWhV2jZ+1M/HF6WJY0Gt3Ah4W0kOU5\nJ0ex/OII6QKBgDlYS7NZOROsT1e+bm63O32xWBklHYJfth56gYvgyV+/G39g9t5u\nUINuyLAKk6PNLum+r+k7O2wFic0cdCN+LdT6Xw+U62r27qB2Y1jjFcvz6dQ1KwQ0\nC0a6FcnkbSkiagIp802kEiJNqO1hJzmLku3NS8zthqqVgYT1F/yRZrKrAoGAcVQz\naVuo6+FW9oxzWmWRbDWNtQ1ywClpK/WiDD+aXMm8Q5ZWhZLEg8A6jlVLxIx5vM+t\nelHHbR0x9TizDdldEiKpOjjsam8uXIEk8P4ogtaHlncxk/j2+cAF78xIOzkj08pt\neuXeN/mmZR0EExzNRl7+rIKW4bx+Bb82GYuu1YkCgYAIzQgefniNt12RagUObT8f\nzdmX2gXAADvYr9Pkew5utDF//hSG8M6hrJVflaPJBOXY+QaJR+pyHyuIPid8WTkT\nL9sJ6bsE43ylXl7rIjbCXLvGdc6FZe+gPJxoMkimHq8eh59zKXhR8/pcwwjTtr+2\nI+4pV6hCQM5fFMpfBd8leA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "minpec-db@minpec-data-analytics.iam.gserviceaccount.com",
+  "client_id": "114758780268359437770",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/minpec-db%40minpec-data-analytics.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
